@@ -2,4 +2,4 @@
 - 👀 I’m interested in Translating games, desining games
 - 🌱 I’m currently learning Lua and python
 - 💞️ I’m looking to collaborate on AI related projects, translating projects, community creation 
-- 📫 How to reach me Discor: giacomo #2467
+- 📫 How to reach me: Discord: giacomo #2467
