@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fennec-kai, also jack
-- 👀 I’m interested in Translating games, and being in small communities
-- 🌱 I’m currently learning Java and python
+- 👋 Hi, I’m @fennec-kai, also known as Jack
+- 👀 I’m interested in Translating games, desining games
+- 🌱 I’m currently learning Lua and python
 - 💞️ I’m looking to collaborate on AI related projects, translating projects, community creation 
 - 📫 How to reach me Discor: giacomo #2467
